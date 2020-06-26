@@ -20,9 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b67fb0c1-4420-4d72-b828-6d85f89e461b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/user_rejected.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rejected_zombie.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/rejected_zombie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/btn-activate-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/btn-confirm-email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/btn-goto-maatai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/btn-recover-pass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/confirm-email.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img-facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img-instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img-twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img-whatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-activate-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-autorized.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-confirm-email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-doc-rejected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-new-request.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-recover-pass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-request-rejected.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
