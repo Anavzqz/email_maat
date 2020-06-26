@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b67fb0c1-4420-4d72-b828-6d85f89e461b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activate_account.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/activate_account.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/new_request.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/new_request.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,15 +37,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3" />
-    <option name="y" value="25" />
-    <option name="width" value="794" />
-    <option name="height" value="688" />
-  </component>
+  <component name="ProjectId" id="1dpTfuepXsLfRHyhNOPePWG3Yzy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mailing" />
     <property name="project.structure.last.edited" value="Project" />

@@ -5,26 +5,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <style type="text/css">
-        @media only screen and (min-device-width: 601px) {
-        .content {width: 600px !important;}
+        @media only screen and (min-device-width: 641px) {
+        .content {width: 640px !important;}
         }</style>
     <style type="text/css">
         @media only screen and (max-width:450px) {
+        body {
+        padding: 0 !important;
+        }
         .two-column .column{
         max-width: 100% !important;
         }
-        .two-column .c2 {
-            padding-left: 50px;
+        .text {
+        padding: 0 24px !important;
         }
         .two-column .imgMaatilda {
-        max-width: 70% !important;
-        padding-left: 35px !important;
+        max-width: 75% !important;
+        padding: 0;
+        margin: 0 auto;
+        }
+        .tdMaatilda {
+        padding: 0 !important;
+        }
+        .maatilda {
+        display: table !important;
         }
        .two-column .btnConfirm{
-        padding-left: 30px;
+        width: 85% !important;
+        }
+        .imgBtn {
+        width: 85% !important;
         }
         .two-column .redes{
-        padding-left: 60px;
+        max-width: 70% !important;
+        }
+        .two-column .c2{
+        max-width: 80% !important;
         }
       }
     </style>
@@ -34,63 +50,83 @@
     </style>
     <[endif]-->
 </head>
-<body style="margin:0 auto; width:100%; max-width:600px;" bgcolor="FFFFFF">
-<table style="width:100%; max-width:600px; margin-top:10px;" align="center" cellpadding="0" cellspacing="0" border="0">
+<body style="margin:0 auto; padding-left: 20px; padding-right: 20px; width:100%; max-width:640px;" bgcolor="FFFFFF">
+<table style="width:100%; max-width:640px; margin-top:0;" align="center" cellpadding="0" cellspacing="0" border="0">
     <tr>
-        <td style="padding-bottom:30px; border-top-left-radius:20px; border-top-right-radius:20px; margin-top:13px;" bgcolor="DAE9FF"></td>
-    </tr>
-    <tr>
-        <td align="center" style="padding-top:15px;">
-            <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/logo_maat.png?raw=true" alt="Maat.ai" style="width:100%; max-width:300px; display:block;">
+        <td align="center" style="height: 72px;">
+            <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/logo_maat.png?raw=true" alt="Maat.ai" style="width:100%; max-width:145px; display:block; margin-top: 5px;">
         </td>
     </tr>
     <tr>
-        <td class="two-column" align="center" style="text-align:center; font-size:0; padding-left:15px; padding-right:15px; padding-top:0px; padding-bottom:0px;">
+        <td>
+            <hr style="size:0.7px; color: #000000; opacity: 0.2; width:93%">
+        </td>
+    </tr>
+    <tr>
+        <td class="two-column" align="center" style="text-align:center; font-size:0; padding-top:30px; padding-bottom:0px;">
             <!-- col izq-->
-            <table class="column" border="0" width="100%" align="center" valign="top" cellpadding="0" cellspacing="0" style="display:inline-block; max-width: 270px; padding-top:10px; padding-bottom:5px;">
+            <table class="column text" border="0" width="100%" align="center" valign="top" cellpadding="0" cellspacing="0" style="display:inline-block; max-width: 280px; padding:4px 5px 5px;">
                 <tr>
-                    <!-- Imágen Maatilda -->
-                    <td align="center" style="padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px;">
-                        <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/maatilda-activate-account.png?raw=true" alt="Maat.ai" style="display:block; width:100%; max-width:240px;" class="imgMaatilda">
-                    </td>
-                </tr>
-            </table>
-            <!--col der-->
-            <table class="column" border="0" width="100%" align="center" valign="top" cellpadding="0" cellspacing="0" style="display:inline-block;max-width: 300px; padding-top:10px; padding-bottom:5px;">
-                <tr>
-                    <td style="font-family:Lato, sans-serif; font-size:24px; font-weight:bold; padding-bottom:5px; padding-top:10px;">Hola <span style="color:#155F86;">*Nombre,</span></td>
-                </tr>
-                <tr>
-                    <td style=" border-top-width:2px; border-top-color:#BFBFBF; border-top-style:solid; padding-rigth:5px;"></td>
-                </tr>
-                <tr>
-                    <td style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; color:#504E4E; padding-bottom:10px; padding-top:15px;">
-                        Bienvenido a <a style="text-decoration:none;">maat.ai</a>
+                    <td style="font-family:Lato, sans-serif; font-style: normal; font-weight: 900; font-size: 20px; line-height: 24px; color: #464646; padding-bottom:7px;">
+                        ¡Hola (NOMBRE)!
                     </td>
                 </tr>
                 <tr>
-                    <td style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; color:#504E4E; padding-bottom:10px; padding-top:10px;">
-                        A través de  <a style="text-decoration:none;">maat.ai</a> podrás solicitar documentos de identificación personal de manera rápida, fácil y segura.
+                    <td style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; color:#504E4E; padding-bottom:19px; padding-top:15px;">
+                        Bienvenido a <a style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; text-decoration:none; color:#504E4E; font-weight: bold;">maat.ai.</a>
                     </td>
                 </tr>
                 <tr>
-                    <td style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; color:#504E4E; padding-bottom:10px; padding-top:10px;">
-                        Para activar tu cuenta necesitas ir al sitio y establecer una contraseña.
+                    <td style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; color:#504E4E; padding-bottom:20px; text-decoration:none;">En nuestra plataforma podrás administrar <span style="font-weight: bold;">documentos personales,</span> pudiendo así, crear
+                        expedientes de empleados, clientes y proveedores.
                     </td>
                 </tr>
                 <tr>
-                    <td style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; color:#504E4E; padding-bottom:2px;">Gracias y saludos, </td>
+                    <td style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; color:#504E4E; padding-bottom:19px;">Para activar tu cuenta, visita nuestro sitio y crea una nueva contraseña.
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; color:#504E4E; padding-bottom:2px;">Saludos, </td>
                 </tr>
                 <tr>
                     <td style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; color:#504E4E; padding-bottom:25px; text-decoration:none;">El equipo de
                         <a style="font-family:Lato, sans-serif; font-size:16px; line-height:18px; text-decoration:none; color:#504E4E;">maat.ai</a>
                     </td>
                 </tr>
-                <tr>
-                    <td style="padding-bottom:0px;" class="btnConfirm">
-                        <a href="https://www.maatai.com/" target="_blank" style="text-decoration:none;">
-                            <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/btn-activate-account.png?raw=true" alt="CONFIRMAR MI CORREO" style="display:block; width:256px !important;">
-                        </a>
+            </table>
+            <!--col der-->
+            <table class="column maatilda" border="0" width="100%" align="center" valign="top" cellpadding="0" cellspacing="0" style="display:inline-block; max-width: 280px; padding-top:10px; padding-bottom:5px;">
+                <tr align="center">
+                    <!-- Imágen Maatilda -->
+                    <td align="center" style="padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:40px;" class="tdMaatilda">
+                        <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/maatilda-activate-account.svg?raw=true" alt="Maat.ai" style="display:block; width:100%; max-width:240px;" class="imgMaatilda">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr align="center">
+        <td style="padding-bottom:0px; padding: 20px 0 30px;" class="btnConfirm" align="center">
+            <a href="https://www.maatai.com/" target="_blank" style="text-decoration:none;">
+                <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/btn-activate-account.svg?raw=true" alt="CONFIRMAR MI CORREO" style="display:block;" class="imgBtn">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <hr style="size:0.7px; color: #000000; opacity: 0.2; width:93%">
+        </td>
+    </tr>
+    <tr>
+        <td class="two-column" align="center" style="text-align:center; font-size:0; padding-left:15px; padding-right:15px; padding-top:8px; padding-bottom:0px;">
+            <!-- col izq-->
+            <table class="column c2" border="0" width="100%" align="center" valign="top" cellpadding="0" cellspacing="0" style="margin: 0 auto; text-align:center; max-width: 259px; padding-top:10px; padding-bottom:5px;">
+                <tr align="center">
+                    <td align="center">
+                        <a style="font-family:Lato, sans-serif; font-weight: normal; font-size: 12px; line-height: 14px; color: #565E73; text-decoration:underline; padding:0 12px;">¿Qué es maat.ai?</a>
+                    </td>
+                    <td align="center">
+                        <a style="font-family:Lato, sans-serif; font-weight: normal; font-size: 12px; line-height: 14px; color: #565E73; text-decoration:underline; padding:0 12px;">Aviso de privacidad</a>
                     </td>
                 </tr>
             </table>
@@ -102,48 +138,40 @@
         <td>
             <table border="0" width="100%" align="center" cellpadding="0" cellspacing="0" style="text-align:center;">
                 <tr>
-                    <td bgcolor="#DAE9FF"  class="two-column" align="center" style="text-align:center; font-size:0; padding-left:15px; padding-right:15px; padding-top:0px; padding-bottom:0px;">
+                    <td  class="two-column" style="text-align:center; font-size:0; padding-left:15px; padding-right:15px; padding-top:0px; padding-bottom:0px;">
                         <!-- Contacto -->
-                        <table bgcolor="#DAE9FF" class="column c2" border="0" width="100%" align="center" valign="center" cellpadding="0" cellspacing="0" style="display:inline-block; max-width: 280px; padding-top:10px; padding-bottom:5px;">
+                        <table class="column redes" border="0" width="100%" valign="center" cellpadding="0" cellspacing="0" style="max-width: 260px; padding-top:18px; padding-bottom:35px; margin:0 auto;">
                             <tr style="max-height:50px;">
-                                <td class="redes" style="padding-top:5px; padding-bottom:5px; padding-left:35px;">
+                                <td class="fb" style="padding:5px 14px;">
                                     <a href="https://www.facebook.com/maataimx/" target="_blank" style="text-decoration:none;">
-                                        <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/img-facebook.png?raw=true" alt="Facebook">
+                                        <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/img-facebook.svg?raw=true" alt="Facebook">
                                     </a>
                                 </td>
-                                <td style="padding-top:5px; padding-bottom:5px; padding-left:15px;" >
+                                <td style="padding:5px 14px;" >
                                     <a href="https://www.instagram.com/maat_ai/" target="_blank" style="text-decoration:none;">
-                                        <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/img-instagram.png?raw=true" alt="Instagram">
+                                        <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/img-instagram.svg?raw=true" alt="Instagram">
                                     </a>
                                 </td>
-                                <td style="padding-top:5px; padding-bottom:5px; padding-left:15px;">
+                                <td style="padding:5px 14px;">
                                     <a href="https://twitter.com/maat_ai" target="_blank" style="text-decoration:none;">
-                                        <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/img-twitter.png?raw=true" alt="Twitter">
+                                        <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/img-twitter.svg?raw=true" alt="Twitter">
                                     </a>
                                 </td>
-                                <td style="padding-top:5px; padding-bottom:5px; padding-left:15px;">
-                                    <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/img-whatsapp.png?raw=true" alt="whatsapp">
+                                <td style="padding:5px 14px;">
+                                    <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/img-whatsapp.svg?raw=true" alt="whatsapp">
                                 </td>
-                            </tr>
-                        </table>
-                        <table class="column" border="0" width="100%" align="center" valign="center" cellpadding="0" cellspacing="0" style="display:inline-block; max-width:280px; padding-top:0px; padding-bottom:5px;">
-                            <tr align="center" style="max-height:50px;">
-                                <td class="redes" style="font-family:Lato, sans-serif; font-size:14px; color:#525252; padding-top:5px; padding-bottom:5px; text-decoration:none; text-align:center; line height:18px;">
-                                    Contáctanos: <a style="text-decoration:none; font-family:Lato, sans-serif; font-size:14px; color:#525252;"> info@maatai.com</a>
+                                <td style="padding:5px 14px;">
+                                    <img src="https://github.com/Anavzqz/email_maat/blob/master/src/assets/img-linkedIn.svg?raw=true" alt="whatsapp">
                                 </td>
                             </tr>
                         </table>
                     </td>
                 </tr>
                 <!-- Legal-->
-                <tr bgcolor="#525252" align="center" style="height:27px;" border="0" cellpading="0" cellpadding="0">
-                    <td style="font-family:Lato, sans-serif; font-size:12px; color:#E5E5E5; text-decoration:none!important; padding-top:3px; padding-left:15px; padding-right:15px;">
-                        Estás recibiendo este correo pues se te ha otorgado una cuenta de solicitante en <a style="color:#E5E5E5; text-decoration:none;">maat.ai.</a>
+                <tr bgcolor="#26314D" align="center" style="height:40px;" border="0" cellpading="0" cellpadding="0">
+                    <td style="font-family:Lato, sans-serif; font-size: 12px; line-height: 14px; color: #FFFFFF; text-decoration:none; text-align:center; line-height:18px;">
+                        ¿Necesitas ayuda? <a style="text-decoration:none; font-family:Lato, sans-serif; font-size: 12px; line-height: 14px; color: #FFFFFF;"> info@maatai.com</a>
                     </td>
-                </tr>
-                <tr bgcolor="#525252" align="center" border="0" cellpading="0" cellpadding="0">
-                    <td style="font-family:Lato, sans-serif; font-size:12px; color:#E5E5E5; border-bottom-left-radius:20px; border-bottom-right-radius:20px; padding-bottom:5px; padding-left:15px; padding-right:15px;">
-                        Puedes consultar nuestro <span><a href="https://www.maatai.com/aviso-de-privacidad/" target="_blank" style="text-decoration:none; color:#7CC9DD;">Aviso de Privacidad.</a></span></td>
                 </tr>
             </table>
         </td>
