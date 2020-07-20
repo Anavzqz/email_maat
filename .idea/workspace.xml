@@ -22,6 +22,18 @@
     <list default="true" id="b67fb0c1-4420-4d72-b828-6d85f89e461b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/activate_account.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/activate_account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/btn-activate-account.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/btn_activate_account.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/btn-confirm-email.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/btn_confirm_email.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/btn-goto-maatai.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/btn_goto_maatai.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/btn-recover-pass.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/btn_recover_pass.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-activate-account.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_activate_account.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-autorized.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_autorized.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-confirm-email.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_confirm_email.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-doc-rejected.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_doc_rejected.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-new-request.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_new_request.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-recover-pass.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_recover_pass.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-remember-request.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_remember_request.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/maatilda-request-rejected.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_request_rejected.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/autorized-request.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/autorized-request.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/confirm_email.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/confirm_email.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/document_rejected.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/document_rejected.html" afterDir="false" />
@@ -29,6 +41,7 @@
       <change beforePath="$PROJECT_DIR$/src/recover_password.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/recover_password.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/rejected_zombie.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/rejected_zombie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/remember_request.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/remember_request.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/request_rejected.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/request_rejected.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/user_rejected.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/user_rejected.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
