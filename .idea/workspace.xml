@@ -1,184 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-    <component name="BranchesTreeState">
-        <expand>
-            <path>
-                <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-                <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-            </path>
-            <path>
-                <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-                <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-            </path>
-            <path>
-                <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-                <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-                <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-            </path>
-        </expand>
-        <select />
-    </component>
-    <component name="ChangeListManager">
-        <list default="true" id="b67fb0c1-4420-4d72-b828-6d85f89e461b" name="Default Changelist" comment="">
-            <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/activate_account.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/activate_account.html" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/btn-activate-account.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/btn_activate_account.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/btn-confirm-email.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/btn_confirm_email.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/btn-goto-maatai.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/btn_goto_maatai.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/btn-recover-pass.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/btn_recover_pass.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/maatilda-activate-account.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_activate_account.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/maatilda-autorized.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_autorized.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/maatilda-confirm-email.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_confirm_email.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/maatilda-doc-rejected.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_doc_rejected.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/maatilda-new-request.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_new_request.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/maatilda-recover-pass.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_recover_pass.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/maatilda-remember-request.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_remember_request.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/assets/maatilda-request-rejected.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/maatilda_request_rejected.svg" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/autorized-request.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/autorized-request.html" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/confirm_email.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/confirm_email.html" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/document_rejected.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/document_rejected.html" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/new_request.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/new_request.html" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/recover_password.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/recover_password.html" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/rejected_zombie.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/rejected_zombie.html" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/remember_request.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/remember_request.html" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/request_rejected.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/request_rejected.html" afterDir="false" />
-            <change beforePath="$PROJECT_DIR$/src/user_rejected.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/user_rejected.html" afterDir="false" />
-        </list>
-        <option name="SHOW_DIALOG" value="false" />
-        <option name="HIGHLIGHT_CONFLICTS" value="true" />
-        <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-        <option name="LAST_RESOLUTION" value="IGNORE" />
-    </component>
-    <component name="DefaultGradleProjectSettings">
-        <option name="isMigrated" value="true" />
-    </component>
-    <component name="FileTemplateManagerImpl">
-        <option name="RECENT_TEMPLATES">
-            <list>
-                <option value="HTML File" />
-            </list>
-        </option>
-    </component>
-    <component name="FindInProjectRecents">
-        <findStrings>
-            <find>maat</find>
-            <find>class</find>
-        </findStrings>
-    </component>
-    <component name="Git.Settings">
-        <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    </component>
-    <component name="ProjectConfigurationFiles">
-        <option name="files">
-            <list>
-                <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-            </list>
-        </option>
-    </component>
-    <component name="ProjectId" id="1dpTfuepXsLfRHyhNOPePWG3Yzy" />
-    <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-    <component name="ProjectViewState">
-        <option name="hideEmptyMiddlePackages" value="true" />
-        <option name="showLibraryContents" value="true" />
-    </component>
-    <component name="PropertiesComponent">
-        <property name="DefaultHtmlFileTemplate" value="HTML File" />
-        <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-        <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-        <property name="dart.analysis.tool.window.visible" value="false" />
-        <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mailing" />
-        <property name="project.structure.last.edited" value="Project" />
-        <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-        <property name="show.migrate.to.gradle.popup" value="false" />
-    </component>
-    <component name="RecentsManager">
-        <key name="MoveFile.RECENT_KEYS">
-            <recent name="C:\Users\anama\OneDrive\Escritorio\MAAT\correos_maat\src" />
-        </key>
-    </component>
-    <component name="SvnConfiguration">
-        <configuration />
-    </component>
-    <component name="TaskManager">
-        <task active="true" id="Default" summary="Default task">
-            <changelist id="b67fb0c1-4420-4d72-b828-6d85f89e461b" name="Default Changelist" comment="" />
-            <created>1564437204543</created>
-            <option name="number" value="Default" />
-            <option name="presentableId" value="Default" />
-            <updated>1564437204543</updated>
-        </task>
-        <servers />
-    </component>
-    <component name="Vcs.Log.Tabs.Properties">
-        <option name="TAB_STATES">
-            <map>
-                <entry key="MAIN">
-                    <value>
-                        <State />
-                    </value>
-                </entry>
-            </map>
-        </option>
-        <option name="oldMeFiltersMigrated" value="true" />
-    </component>
-    <component name="WindowStateProjectService">
-        <state x="449" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593494999628">
-            <screen x="0" y="0" width="1366" height="728" />
-        </state>
-        <state x="449" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1593494999628" />
-        <state x="184" y="9" key="SettingsEditor" timestamp="1593485900629">
-            <screen x="0" y="0" width="1366" height="728" />
-        </state>
-        <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593485900629" />
-    </component>
-    <component name="masterDetails">
-        <states>
-            <state key="GlobalLibrariesConfigurable.UI">
-                <settings>
-                    <splitter-proportions>
-                        <option name="proportions">
-                            <list>
-                                <option value="0.2" />
-                            </list>
-                        </option>
-                    </splitter-proportions>
-                </settings>
-            </state>
-            <state key="JdkListConfigurable.UI">
-                <settings>
-                    <splitter-proportions>
-                        <option name="proportions">
-                            <list>
-                                <option value="0.2" />
-                            </list>
-                        </option>
-                    </splitter-proportions>
-                </settings>
-            </state>
-            <state key="ProjectJDKs.UI">
-                <settings>
-                    <splitter-proportions>
-                        <option name="proportions">
-                            <list>
-                                <option value="0.2" />
-                            </list>
-                        </option>
-                    </splitter-proportions>
-                </settings>
-            </state>
-            <state key="ProjectLibrariesConfigurable.UI">
-                <settings>
-                    <splitter-proportions>
-                        <option name="proportions">
-                            <list>
-                                <option value="0.2" />
-                            </list>
-                        </option>
-                    </splitter-proportions>
-                </settings>
-            </state>
-        </states>
-    </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b67fb0c1-4420-4d72-b828-6d85f89e461b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activate_account.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/activate_account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/autorized-request.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/autorized-request.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/confirm_email.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/confirm_email.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/document_rejected.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/document_rejected.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/new_request.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/new_request.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recover_password.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/recover_password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rejected_zombie.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/rejected_zombie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/remember_request.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/remember_request.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/request_rejected.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/request_rejected.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user_rejected.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/user_rejected.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dpTfuepXsLfRHyhNOPePWG3Yzy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mailing" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anama\OneDrive\Escritorio\MAAT\correos_maat\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b67fb0c1-4420-4d72-b828-6d85f89e461b" name="Default Changelist" comment="" />
+      <created>1564437204543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564437204543</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593494999628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1593494999628" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1593485900629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593485900629" />
+    <state x="390" y="97" width="585" height="558" key="find.popup" timestamp="1595285083878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="97" width="585" height="558" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1595285083878" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
 </project>
